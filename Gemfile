@@ -7,6 +7,8 @@ gem 'rails-api'
 
 gem 'spring', :group => :development
 
+gem 'responders', '~> 2.0'
+
 gem 'active_model_serializers', '~> 0.9.3'
 
 gem 'mysql2', '~> 0.3.18'
